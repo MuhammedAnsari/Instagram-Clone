@@ -85,6 +85,10 @@ a{
     text-decoration: none;
 }
 
+.insta{
+    color: grey;
+}
+
 @media only screen and (max-width: 1280px) {
     .top-container{
         padding-left: 120px;
